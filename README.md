@@ -3,7 +3,7 @@ https://youtu.be/Ke8OaP_klJw?si=Rz4XebJxZ0d_v49M
 
 # Merging-of-Branches-using-Git-Commands
 
-Note: INSTALL GIT FIRST <br>
+**IMPORTANT Note:** INSTALL GIT FIRST <br>
 
 ## Step 1 — Create a new SSH key <br>
 ssh-keygen -t ed25519 -C "your_email@example.com"<br>
